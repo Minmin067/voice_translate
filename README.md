@@ -1,1 +1,2 @@
 # voice_translate
+Pythonとgoogle_translateで音声ファイルを日本語から英語に変換するプログラム
